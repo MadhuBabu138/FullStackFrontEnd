@@ -1,0 +1,29 @@
+p.left{
+    text-align: left;
+}
+p.right{
+    text-align: right;
+}
+p.center{
+    text-align: center;
+}
+p.justify{
+    text-align: justify;
+}
+
+p.left,p.right,p.center,p.justify{
+    font-size: 23px;
+}
+
+.center{
+    color:blue;
+}
+
+div.center{
+    font-size: larger;
+    background-color: lightgray;
+    font-family: Gigi;
+    font-size: 30px;
+    padding: 30px;
+}
+
